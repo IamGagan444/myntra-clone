@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5877965.css",
+    "main.js": "/static/js/main.94134946.js",
+    "static/media/homeimg2.webp": "/static/media/homeimg2.6281ded49a9fe14b287c.webp",
+    "static/media/img2.webp": "/static/media/img2.f1fcb522367eedf67dce.webp",
+    "static/media/img1.webp": "/static/media/img1.434dfdd1c40afd8f1de9.webp",
+    "static/media/myntraLogo.png": "/static/media/myntraLogo.6f4d7407a21a3504eb9c.png",
+    "static/media/img5.webp": "/static/media/img5.b21d80a3a885a12d995d.webp",
+    "static/media/img4.webp": "/static/media/img4.a9bb7ec6fd8c1b810f43.webp",
+    "static/media/img3.webp": "/static/media/img3.8d1e54a9f66ec3f84f65.webp",
+    "index.html": "/index.html",
+    "main.a5877965.css.map": "/static/css/main.a5877965.css.map",
+    "main.94134946.js.map": "/static/js/main.94134946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5877965.css",
+    "static/js/main.94134946.js"
+  ]
+}

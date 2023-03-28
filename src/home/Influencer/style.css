@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  
+  #pick {
+    width: 99%;
+    margin: 30px auto;
+  }
+  #pick h2 {
+    margin: 30px;
+    letter-spacing: 3px;
+    font-size: 1.7rem;
+  }
+  
+  .pick-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin: 50px 0;
+  }
+  .pick-grid > div {
+    height: 150px;
+  }
+  
+  .pick-grid img {
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  /* ================= */
+  .pick-grid2{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    margin: 50px 0;
+  }
+  .pick-grid2 > div {
+    height: 250px;
+  }
+  .pick-grid2 img {
+    width: 100%;
+    cursor: pointer;
+  }
+  
+
+
+
+
+

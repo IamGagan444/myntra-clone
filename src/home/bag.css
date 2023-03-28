@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+#catbag {
+  width: 100%;
+  margin: 50px 0;
+}
+h2 {
+  margin: 50px 20px;
+  letter-spacing: 2px;
+  font-size: 1.7rem;
+  color: rgba(0, 0, 0, 0.765);
+}
+.bag-grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+}
+
+.slash-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 15px 0;
+}
+.bag-grid div {
+  height: 200px;
+}
+.slash-grid div {
+  height: 200px;
+  /* border: 1px solid red; */
+}
+.best-grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  /* border: 1px solid red; */
+  gap: 0;
+}
+.bag-grid img {
+  width: 100%;
+  height: 100%;
+}
+.slash-grid img {
+  width: 100%;
+}
